@@ -7,7 +7,7 @@ const FILES_TO_CACHE = [
   "/styles.css",
   "/index.html",
   "/manifest.webmanifest",
-  "/indexedDb.js"
+  "/db.js"
 ];
 
 const STATIC_CACHE = "static-cache-v1";
